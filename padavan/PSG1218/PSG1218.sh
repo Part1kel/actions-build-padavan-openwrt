@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+!/usr/bin/env bash
 # # # # # # # # # # #
 #   自定义脚本
 #     花妆男
